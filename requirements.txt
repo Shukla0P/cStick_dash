@@ -1,8 +1,4 @@
-sklearn.model_selection
-sklearn.linear_model
-sklearn.ensemble
-sklearn.linear_model
-sklearn.tree
+sklearn
 pandas
 ipywidgets
 ipywidgets

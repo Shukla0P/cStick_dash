@@ -4,3 +4,4 @@ ipywidgets
 ipywidgets
 matplotlib
 pyplot
+voila
